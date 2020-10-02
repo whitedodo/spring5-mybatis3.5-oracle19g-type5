@@ -27,7 +27,11 @@ Spring Framework 5.4, MyBatis 3.5, Oracle 19g를 연동 프로젝트 - (XML, Jav
 ##### We demonstrated XML mapping and Classes mapping in XML and Java methods. (Write the number of cases)
 
 ### 2. 시연(Demonstration)
-##### 1. Spring Framework 5.4, MyBatis 3.5.4, Oracle 19g 연동하기 - 5가지 방법, https://youtu.be/WYjVmIplNyI, Accessed by 2020-10-02, Last Modified 2020-10-02.
+##### 1. Spring Framework 5.4, MyBatis 3.5.5, Oracle 19g 연동하기 - 5가지 방법, https://youtu.be/WYjVmIplNyI, Accessed by 2020-10-02, Last Modified 2020-10-02.
+##### 2. Spring Framework 5.4, Mybatis 3.5.5, oracle 19, xml설정방식 그리고 xml맵핑 https://youtu.be/42VkZmkGmgs, Accessed by 2020-10-02, Last Modified 2020-10-02.
+##### 3. Spring Framework 5.4, Mybatis 3.5.5, Oracle 19g, XML설정 및 Java맵핑, https://youtu.be/h4ERkEnfm-k, Accessed by 2020-10-02, Last Modified 2020-10-02.
+##### 4. Spring Framework 5.4, Mybatis 3.5.5, Oracle 19g - Java to Java Mapping, https://youtu.be/Obezbqv0jeI, Accessed by 2020-10-02, Last Modified 2020-10-02.
+##### 5. Spring Framework 5.4, Mybatis 3.5.5, Oracle Databases 19g, Java to XML Mapping, https://youtu.be/adN6SHjiz4g, Accessed by 2020-10-02, Last Modified 2020-10-02.
 
 ### 3. 참고자료(Reference)
 ##### 1. Maven Repository: Search/Browse/Explore, https://mvnrepository.com/, Accessed by 2020-09-24, Last Modified .
